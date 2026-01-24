@@ -1,5 +1,5 @@
 import express, { Express, Request, Response } from "express";
-
+import React from "react";
 import { Page, Text, View, Document, StyleSheet, renderToStream } from '@react-pdf/renderer';
 
 // Create styles
